@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm [Your Name] 👋</h1>
+<h1 align="center">Hello! I'm Mayank D. Kulkarni!</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=blue&center=true&vCenter=true&width=450&lines=Passionate+Developer;Open+Source+Enthusiast;Lifelong+Learner+in+Tech" alt="Typing SVG" />
 </p>
@@ -7,49 +7,40 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 🌱 I’m currently exploring **Machine Learning** and **Web Development**.
+- 🌱 I’m currently exploring **Artificial Intelligence** and **Machine Learning**.
 - 💼 Open to collaboration on **interesting projects** and **innovative ideas**.
 - 💬 Ask me about anything related to **technology, coding, and productivity**.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: [mayank.kulkarni29@gmail.com](mailto:mayank.kulkarni29@gmail.com)
 
 ---
 
 <h2>🛠️ Tech Stack</h2>
 
-- **Programming Languages:** Python, JavaScript, C++
+- **Programming Languages:** C, C++, Java, Python, JavaScript
 - **Frameworks:** React, Node.js, Flask
-- **Tools & Technologies:** Git, Docker, TensorFlow, Kubernetes
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools & Technologies:** Git, Docker, TensorFlow
+- **Databases:** MySQL, MongoDB, Oracle
 
 ---
 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayankk2904&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankk2904&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-<h2>🚀 Projects</h2>
-
-- 🌟 [Project 1](https://github.com/your-username/project-1) – Short description of your project.
-- 🌟 [Project 2](https://github.com/your-username/project-2) – Short description of your project.
-- 🌟 [Project 3](https://github.com/your-username/project-3) – Short description of your project.
 
 ---
 
 <h2>📫 Connect with Me</h2>
 
 <p align="center">
-    <a href="https://linkedin.com/in/your-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/your-profile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="linkedin.com/in/mayank-kulkarni-29062004/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:mayank.kulkarni29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 <h2>🐍 Snake Animation</h2>
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mayankk2904/mayankk2904/blob/output/github-contribution-grid-snake.svg)
