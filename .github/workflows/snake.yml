@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+# Controls when the action will run
+on:
+  schedule:
+    # Runs at midnight every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - uses: actions/checkout@v2
+
+      # Step 2: Generate the snake animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: mayankk2904
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Step 3: Push the changes to the output branch
+      - name: Push generated snake
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output
+          path: dist/github-contribution-grid-snake.svg
