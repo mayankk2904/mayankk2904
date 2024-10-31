@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Mayank D. Kulkarni!</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=blue&center=true&vCenter=true&width=450&lines=Passionate+Developer;Open+Source+Enthusiast;Lifelong+Learner+in+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=blue&center=true&vCenter=true&width=450&lines=Avid+Learner;Tech+Blogger;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
