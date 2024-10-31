@@ -19,10 +19,13 @@ jobs:
           github_user_name: mayankk2904
           outputs: dist/snake.svg
 
-      # Step 3: Push the generated snake to the output branch
-      - name: Push generated snake
-        uses: stefanzweifel/push-action@v4 # Updated push action to v4
+      # Step 3: Commit and push the generated file to the output branch
+      - name: Commit and Push
+        uses: github-actions-x/commit@v2.10
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
-          directory: dist
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          message: "Generated snake animation"
+          files: "dist/snake.svg"
