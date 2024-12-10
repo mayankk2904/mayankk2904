@@ -55,8 +55,3 @@
 
 <hr/>
 
-<h2 align="center">🐍 GitHub Contribution Snake 🐍</h2>
-<br>
-<div align="center">
-  <img src="https://github.com/mayankk2904/mayankk2904/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
