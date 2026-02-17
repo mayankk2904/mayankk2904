@@ -1,6 +1,6 @@
 <img width="100%" alt="git-banner" src="https://github.com/user-attachments/assets/51f8ac93-3a11-4021-9ed0-f7015bf23acd" />
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/itsmayankk29">Mayank</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/itsmayankk29">Mayank</a> <img height="40" alt="wave-hi" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/></h1>
 
 <img align="right" hspace="30"
      src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
@@ -15,8 +15,6 @@
 - 📫 **Reach Me At:** [mayank.kulkarni29@gmail.com](mailto:mayank.kulkarni29@gmail.com) <br>
 - 📍 **Location:** India <br>
 
-<br>
-<br>
 <br>
 
 #### **Bad News:**  
@@ -36,6 +34,7 @@
 
 <br>
 
+<h2 align="center">⚡ Github Stats ⚡</h2>
 <table width="100%" align="center">
 <tr>
 <td>
