@@ -18,7 +18,7 @@
  
  👯 I'm looking to collaborate on **Agentic AI projects**
  
- 💬 Ask me about **Software Development... or anything [here](https://github.com/mayankk2904)**
+ 💬 Ask me about **Software Development... or anything [here](https://github.com/mayankk2904/issues)**
 
 ⚡ Fun fact **I also draw! Check out my art on Instagram**
  
@@ -36,47 +36,59 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,js,figma,nodejs,express,flask,fastapi" />
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,pytorch,tensorflow,postgres,mysql,vercel,scikitlearn" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,js,figma,nodejs,express,flask,fastapi,python,java,c,cpp,pytorch,tensorflow,postgres,mysql,vercel,github,git" />
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mayankk2904/mayankk2904/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mayankk2904&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mayankk2904&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankk2904&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
-</h3>
+<!-- START NEW SECTION -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  
+  <!-- This is the CORRECT snake animation syntax -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayankk2904/mayankk2904/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayankk2904/mayankk2904/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mayankk2904/mayankk2904/output/github-contribution-grid-snake.svg" />
+  </picture>
+  
+  <br/><br/>
+  
+  <!-- IMPORTANT: To make the snake work, you need to create a GitHub Action -->
+  <!-- I'll provide the workflow file below this README -->
+  
+</div>
+<!-- END NEW SECTION -->
+
+<hr/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
+</div>
 
 <br/>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=mayankk2904&icon=0&color=0" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/mayankk2904/mayankk2904/main/assets/footer.svg" width="100%" />
 </div>
