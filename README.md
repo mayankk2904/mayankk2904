@@ -52,6 +52,9 @@
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mayankk2904&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
+<div align="center">
+  <img width=600 src="https://camo.githubusercontent.com/4568d44f46aac68c7cf9123e87cd964219680956eb0336e749e943769fede61d/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6d617374616e736179796164267468656d653d7261646963616c" alt="account stats"/>
+</div>
 
 <br/>
 <hr/>
