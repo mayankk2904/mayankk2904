@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mayank!;" />
 </h1>
 
-<h3 align="center">A passionate AI/ML developer from India 🇮🇳</h3>
+<h3 align="center">A passionate AI and Software developer</h3>
 
 <br/>
 
@@ -90,5 +90,5 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=mayankk2904&icon=0&color=0" />
   <br/>
-  <img src="https://raw.githubusercontent.com/mayankk2904/mayankk2904/main/assets/footer.svg" width="100%" />
+  <img src="[https://raw.githubusercontent.com/mayankk2904/mayankk2904/main/assets/footer.svg](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)" width="100%" />
 </div>
