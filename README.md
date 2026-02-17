@@ -38,7 +38,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayankk2904&theme=radical" alt="Profile Summary">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayankk2904&theme=react" alt="Profile Summary">
 </td>
 </tr>
 </table>
@@ -46,10 +46,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/mayankk2904?cardType=level&theme=radical" alt="GitHub Stats"/>
+    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/mayankk2904?cardType=level&theme=react" alt="GitHub Stats"/>
 </td>
 <td>
-<img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=mayankk2904&theme=radical" />
+  <img width=410 height=240 align"center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankk2904&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </td>
 </tr>
 </table>
