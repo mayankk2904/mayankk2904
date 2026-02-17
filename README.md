@@ -1,30 +1,63 @@
+<img width="100%" alt="git-banner" src="https://github.com/user-attachments/assets/51f8ac93-3a11-4021-9ed0-f7015bf23acd" />
+
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/itsmayankk29">Mayank</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+
+<img align="right" hspace="30"
+     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+     alt="Coding Animation"
+     width="320"/>
+
+- 🔭 **Currently working on RAG and LLMs** <br>
+- 🌱 **Diving deep into AI and ML** <br>
+- 👯 **Looking to collaborate on Agentic AI projects** <br>
+- ⚡ Fun fact: **I also draw! Check out my art on Instagram** <br>
+- 💬 Ask me about **Software Development... or anything [here](https://github.com/mayankk2904/issues)**
+- 📫 **Reach Me At:** [mayank.kulkarni29@gmail.com](mailto:mayank.kulkarni29@gmail.com) <br>
+- 📍 **Location:** India <br>
+
+<br>
+<br>
+<br>
+
+#### **Bad News:**  
+> Some dreams won’t happen the way you imagined.
+
+#### **Good News:**  
+> Many will happen in ways
+> far better than you ever expected.
+
+<br>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,js,figma,nodejs,express,flask,fastapi,python,java,c,cpp,pytorch,tensorflow,postgres,mysql,vercel,github,git" />
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mayank!;" />
-</h1>
+<br>
 
-<h3 align="center">A passionate AI and Software developer</h3>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayankk2904&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
-<br/>
+<table width="100%" align="center">
+<tr>
+<td>
+    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/mayankk2904?cardType=level&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+<img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=mayankk2904&theme=radical" />
+</td>
+</tr>
+</table>
+<br>
 
 <div align="center">
- 
- 🔭 I'm currently working on **RAG and LLMs**
- 
- 🌱 I'm diving deep into **AI and ML**
- 
- 👯 I'm looking to collaborate on **Agentic AI projects**
- 
- 💬 Ask me about **Software Development... or anything [here](https://github.com/mayankk2904/issues)**
-
-⚡ Fun fact **I also draw! Check out my art on Instagram**
- 
- </div>
- 
-<div align="center"> 
+  <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/itsmayankk29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -36,35 +69,18 @@
   </a>
 </div>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,js,figma,nodejs,express,flask,fastapi,python,java,c,cpp,pytorch,tensorflow,postgres,mysql,vercel,github,git" />
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mayankk2904&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-<div align="center">
-  <img width=600em src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayankk2904&theme=radical" alt="account stats"/>
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%"/>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
