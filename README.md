@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on RAG and LLMs<br>Looking to collaborate on Agentic AI projects<br>Diving deep into AI and ML<br>Ask me about Software Development
+- I'm currently working on RAG and LLMs<br>- Looking to collaborate on Agentic AI projects<br>- Diving deep into AI and ML<br>- Ask me about Software Development
 
 
 ## 🌐 Socials:
