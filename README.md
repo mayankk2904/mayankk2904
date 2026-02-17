@@ -2,26 +2,34 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/itsmayankk29">Mayank Kulkarni</a> <img height="30" alt="wave-hi" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/></h1>
 
-<table>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>🔭 <strong>Currently working on RAG and LLMs</strong></li>
-        <li>🌱 <strong>Diving deep into AI and ML</strong></li>
-        <li>👯 <strong>Looking to collaborate on Agentic AI projects</strong></li>
-        <li>⚡ Fun fact: <strong>I also draw! Check out my art on Instagram</strong></li>
-        <li>💬 Ask me about <strong>Software Development... or anything <a href="https://github.com/mayankk2904/issues">here</a></strong></li>
-        <li>📫 <strong>Reach Me At:</strong> <a href="mailto:mayank.kulkarni29@gmail.com">mayank.kulkarni29@gmail.com</a></li>
-        <li>📍 <strong>Location:</strong> India</li>
-      </ul>
-    </td>
-    <td valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-           alt="Coding Animation" 
-           width="320"/>
-    </td>
-  </tr>
-</table>
+<!-- Desktop View -->
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+       alt="Coding Animation" 
+       width="320" 
+       align="right" 
+       hspace="30"/>
+</div>
+
+<!-- Your content -->
+- 🔭 **Currently working on RAG and LLMs** <br>
+- 🌱 **Diving deep into AI and ML** <br>
+- 👯 **Looking to collaborate on Agentic AI projects** <br>
+- ⚡ Fun fact: **I also draw! Check out my art on Instagram** <br>
+- 💬 Ask me about **Software Development... or anything [here](https://github.com/mayankk2904/issues)**
+- 📫 **Reach Me At:** [mayank.kulkarni29@gmail.com](mailto:mayank.kulkarni29@gmail.com) <br>
+- 📍 **Location:** India <br>
+
+<!-- Mobile View (hidden on desktop, shows on mobile) -->
+<noscript>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+         alt="Coding Animation" 
+         width="100%" 
+         style="max-width:320px;"/>
+  </div>
+</noscript>
+
 <br>
 
 #### **Bad News:**  
