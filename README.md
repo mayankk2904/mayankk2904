@@ -41,6 +41,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEzMTE4MzAsIm5iZiI6MTc3MTMxMTUzMCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE3VDA2NTg1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhZmI0MjIxZmNhOTFmNDg4MzYxNDU4MjhhMDZkNzMwNzQyNWYzMmQzNzhlMDFjMjhjMmZiYmY0OGU5MmNmZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.x5kfBFPXioGTkqjoMv4wK39paitItzsGZD-qfFROrdY" width="100%"/>
+</div>
+<br/>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,js,figma,nodejs,express,flask,fastapi,python,java,c,cpp,pytorch,tensorflow,postgres,mysql,vercel,github,git" />
 </div>
 
@@ -54,28 +58,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<!-- START NEW SECTION -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  
-  <!-- This is the CORRECT snake animation syntax -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayankk2904/mayankk2904/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayankk2904/mayankk2904/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mayankk2904/mayankk2904/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-  <br/><br/>
-  
-  <!-- IMPORTANT: To make the snake work, you need to create a GitHub Action -->
-  <!-- I'll provide the workflow file below this README -->
-  
-</div>
-<!-- END NEW SECTION -->
-
 <hr/>
 
 <div align="center">
