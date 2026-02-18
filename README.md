@@ -7,6 +7,8 @@
      alt="Coding Animation"
      width="320"/>
 
+<br/>
+
 - 🔭 **Currently working on RAG and LLMs** <br>
 - 🌱 **Diving deep into AI and ML** <br>
 - 👯 **Looking to collaborate on Agentic AI projects** <br>
