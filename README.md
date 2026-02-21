@@ -50,7 +50,7 @@
     <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/mayankk2904?cardType=level&theme=react" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width=410 height=240 align"center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankk2904&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=410 height=240 align"center" src="https://streak-stats.demolab.com?user=mayankk2904&theme=react&border_radius=10" alt="streak stats"/>
 </td>
 </tr>
 </table>
