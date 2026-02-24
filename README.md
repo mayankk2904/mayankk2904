@@ -12,9 +12,10 @@
 - 🌱 **Diving deep into AI and ML** <br>
 - 👯 **Looking to collaborate on Agentic AI projects** <br>
 - ⚡ Fun fact: **I also draw! Check out my art on Instagram** <br>
-- 💬 Ask me about **Software Development... or anything [here](https://github.com/mayankk2904/issues)**
+- 💬 Ask me about **AI/ML, Web/Software Development... or anything**
 - 📫 **Reach Me At:** [mayank.kulkarni29@gmail.com](mailto:mayank.kulkarni29@gmail.com) <br>
 - 📍 **Location:** India <br>
+- **Check out my portfolio website at: [https://mayankbuilds.vercel.app/]**
 
 <br>
 
