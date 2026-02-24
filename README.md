@@ -15,7 +15,7 @@
 - 💬 Ask me about **AI/ML, Web/Software Development... or anything**
 - 📫 **Reach Me At:** [mayank.kulkarni29@gmail.com](mailto:mayank.kulkarni29@gmail.com) <br>
 - 📍 **Location:** India <br>
-- **Check out my portfolio website at: [https://mayankbuilds.vercel.app/]**
+- **Check out my portfolio website at: https://mayankbuilds.vercel.app/**
 
 <br>
 
